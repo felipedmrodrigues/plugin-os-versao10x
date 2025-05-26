@@ -30,7 +30,7 @@ Este repositório contém a versão **adaptada** do plugin **Ordem de Serviço (
 cd /var/www/html/glpi/plugins
 ```
 
-2. Clone este repositório:
+2. Clone este repositório de acordo com o que deseja implementar na o.s. Acompanhamento ou Solução:
 
 ```bash
 git clone https://github.com/seuusuario/plugin-os-adaptado.git os
