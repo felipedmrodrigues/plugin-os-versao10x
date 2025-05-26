@@ -90,26 +90,3 @@ O repositório inclui duas versões do arquivo `os_pdf.php` para referência:
 
 ---
 
-## 📁 Estrutura do Repositório
-
-```plaintext
-plugin-os-adaptado/
-├── os/                                ← Plugin OS completo com alterações aplicadas
-├── os_pdf.php.solução/               ← Versão original do PDF
-│   └── os_pdf.php
-├── os_pdf.php.acompanhamento/        ← Versão modificada com acompanhamento
-│   └── os_pdf.php
-├── logo_vertical_300x100.png         ← Logo personalizada no tamanho correto
-└── README.md                         ← Instruções completas (este arquivo)
-```
-
----
-
-## ✅ Como Criar Este Projeto do Zero
-
-1. Crie a pasta do projeto:
-
-```bash
-mkdir plugin-os-adaptado
-cd plugin-os-adaptado
-```
