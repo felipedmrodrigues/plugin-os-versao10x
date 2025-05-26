@@ -7,9 +7,8 @@ Este repositório contém a versão **adaptada** do plugin **Ordem de Serviço (
 ## ✅ Alterações Principais
 
 - Compatível com **GLPI 10.0.18**
-- PDF alterado para exibir o **último acompanhamento** do chamado, substituindo o campo de solução
+- PDF alterado para exibir o **último acompanhamento** ou a Solução do chamado. Você escolhe de acordo com o aruquivo baixado.
 - Inclusão de **logo personalizada** no PDF
-- Permissões corrigidas para upload e geração de arquivos sem erro
 - Organização do repositório com **duas versões** do `os_pdf.php` para fácil comparação
 
 ---
