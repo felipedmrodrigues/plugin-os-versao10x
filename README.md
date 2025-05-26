@@ -1,4 +1,4 @@
-# 📦 Plugin OS Adaptado para GLPI 10.0.18
+# 📦 Plugin OS Adaptado para GLPI 10.0.x
 
 Este repositório contém a versão **adaptada** do plugin **Ordem de Serviço (OS)** para o **GLPI 10.0.18**, com melhorias realizadas por **Felipe Melo** para otimizar a geração de PDFs, exibir o último acompanhamento do chamado e ajustar a logo do layout.
 
