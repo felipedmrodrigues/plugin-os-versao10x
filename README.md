@@ -89,4 +89,12 @@ O repositório inclui duas versões do arquivo `os_pdf.php` para referência:
 | `os_pdf.php.acompanhamento/os_pdf.php` | Versão adaptada: exibe o **último acompanhamento** (`glpi_itilfollowups.content`) |
 
 ---
+Configurar:
 
+Após instalar e habilitar o Plug-in, surgirá o submenu "Ordem de Serviço" no menu Plug-ins.
+Preencha conforme as informações solicitadas, essas informações farão parte do cabeçalho da impressão.
+Modo de usar:
+
+Para configurar o CNPJ das entidades, entre no Menu: Administração > Entidades, procure pela aba “Dados para O.S.” e insira o CNPJ de cada entidade.
+Dentro de cada Ticket surgirá uma aba "Ordem de Serviço", ao entrar já será exibido o Layout A4 da Ordem de Serviço.
+Escolha o Layout "Label" e terá uma versão para impressão em impressoras de etiquetas e/ou não fiscais.
