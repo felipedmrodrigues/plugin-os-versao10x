@@ -36,9 +36,10 @@ cd /var/www/html/glpi/plugins
 git clone https://github.com/seuusuario/plugin-os-adaptado.git os
 ```
 
-3. Ajuste as permissões para evitar erros de geração de arquivos e upload:
+3. Ajuste as permissões para evitar erros de geração de arquivos e upload (Renomei o arquivo para apenas "os":
 
 ```bash
+mv os-master os
 chown -R www-data:www-data /var/www/html/glpi/plugins/os
 chmod -R 775 /var/www/html/glpi/plugins/os
 ```
