@@ -59,10 +59,10 @@ chmod -R 775 /var/www/html/glpi/plugins/os
 3. Altere o campo **"Endereço da aplicação"** para:
 
 ```plaintext
-http://seudns-ou-ip
+http://seu-dns-ou-ip
 ```
 
-> ⚠️ **Evite usar `localhost`**, pois isso impede a correta geração dos PDFs no navegador.
+> ⚠️ **Evite usar `localhost`**, pois isso impede a correta geração dos PDFs no navegador pricipalmente se estiver utilizando docker.
 
 ---
 
