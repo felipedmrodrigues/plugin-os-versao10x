@@ -59,7 +59,7 @@ chmod -R 775 /var/www/html/glpi/plugins/os
 3. Altere o campo **"Endereço da aplicação"** para:
 
 ```plaintext
-http://sistemamanutencao.mphotel.local/glpi
+http://seudns-ou-ip
 ```
 
 > ⚠️ **Evite usar `localhost`**, pois isso impede a correta geração dos PDFs no navegador.
